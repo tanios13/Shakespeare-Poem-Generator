@@ -1,7 +1,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-Train and test a multi layer network.
+Train and test a Recurrent Neural Network.
 
 ## What I learned from this project
 * Implement a recurrent neural network from scratch
